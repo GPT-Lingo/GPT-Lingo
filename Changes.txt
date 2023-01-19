@@ -1,0 +1,1 @@
+- Added main.py file for initial start up and changed readme to describe setup and how to contribute
